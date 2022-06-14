@@ -1,4 +1,4 @@
-# Telecommunications-Project-ECE
+# Telecommunications-Project-NTUA
 
 Semester Project for Introduction to Telecommuntications class in Electrical and Computer Engineering at National and Technical University of Athens during Fall Semester 2021.
 
